@@ -80,8 +80,6 @@ Most of the simulations are written in **Python 3** and require the following li
 * **SciPy**: For advanced ODE solvers and integration.
 
 ## 📝 Notes
-Details regarding the specific problem statements for each assignment can be found in the course notes: Wan.cx SIF3012 Notes.
+Details regarding the specific problem statements for each assignment can be found in the course notes: [Nota Kuliah SIF3012](https://wan.cx/wat/kuliah/sif3012/tug2.html) for more info. 
+I have also put the python code in the Google Drive files back then : (https://drive.google.com/drive/folders/1Kh3IBuVMGWsM2Iq58YriHRF6Czydvnpz)
 
-To install the requirements:
-```bash
-pip install numpy matplotlib scipy
