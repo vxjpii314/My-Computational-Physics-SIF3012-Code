@@ -1,4 +1,4 @@
-"""# Plot X dan Y terhadap ruang
+# Plot X dan Y terhadap ruang
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -116,4 +116,4 @@ X += generate_random_perturbation()
 Y += generate_random_perturbation()
 
 plt.tight_layout()
-plt.show()"""
+plt.show()
