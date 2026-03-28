@@ -5,7 +5,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-This repository contains a collection of Python scripts developed for the **SIF3012 Computational Physics** assignment course during my undergraduate studies in 2023. The course covers a wide spectrum of numerical methods, from classical mechanics simulations to quantum computing algorithms.
+This repository contains a collection of Python scripts for the **SIF3012 Computational Physics** assignment course during my undergraduate studies in 2023. The course covers a wide spectrum of numerical methods, from classical mechanics simulations to quantum computing algorithms.
 
 **Author:** vxxjpii
 
